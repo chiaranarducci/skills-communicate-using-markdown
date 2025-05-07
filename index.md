@@ -4,3 +4,5 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ]tarea
+- [X] GITHUB
